@@ -14,7 +14,7 @@
 <img align="center" alt="henrique-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
 </a>
 
-## 
+---
 
 ### Skills
 
@@ -30,8 +30,18 @@
 #### Outras Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"></img>
 
-##
+---
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-af&show_icons=true&theme=tokyonight)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-af&layout=compact&theme=tokyonight)
+![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-af&layout=compact&theme=tokyonight)
+----
+##### Outros links
+
+<a href="https://steamcommunity.com/id/riqmlkcs/" target="_blank">
+<img align="center" alt="henrique-steam" height="25" width="25" src="https://image.flaticon.com/icons/png/512/3/3782.png" style="max-width:100%;"></a><a href="https://battlefieldtracker.com/bfv/profile/origin/MAL0KAA/overview" target="_blank">
+<img align="center" alt="henrique-battlefield" height="28" width="28" src="https://cdn.patchbot.io/images/games/battlefield_v_sm.png" style="max-width:100%;"></a>
+<a href="http://discord.com/users/365341368878497792" target="_blank">
+<img align="center" alt="henrique-discord" height="31" width="31" src="https://w7.pngwing.com/pngs/942/98/png-transparent-discord-computer-icons-teamspeak-computer-servers-others-miscellaneous-blue-smiley.png" style="max-width:100%;"></a>
+
+
