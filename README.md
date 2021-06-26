@@ -34,4 +34,4 @@
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-af&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-af&layout=compact&theme=tokyonight)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-af&layout=compact&theme=tokyonight)
