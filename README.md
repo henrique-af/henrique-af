@@ -1,7 +1,7 @@
 
 ## Olá, sou o Henrique!
 
-* Cursando Análise e Desenvolvimento de Sistemas (5º Semestre);
+* Cursando Análise e Desenvolvimento de Sistemas (4º Semestre);
 * Trabalho como Analista de Suporte mas estou estudando para migrar para área de desenvolvedor;
 
 <a href="https://www.linkedin.com/in/henrique-albuquerque-7093b9167" target="_blank">
@@ -18,11 +18,7 @@
 
 ### Skills
 
-#### Intermediário
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
-
-#### Iniciante 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="max-width:100%;"></img>
 
 #### Focado atualmente em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
