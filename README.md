@@ -8,10 +8,6 @@
 </a>
 <a href="https://www.instagram.com/henriqueaf._/" target="_blank">
 <img align="center" alt="henrique-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
-</a>
-<a href="https://www.facebook.com/henriiqs/" target="_blank">
-<img align="center" alt="henrique-facebook" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;">
-</a>
 
 ---
 
@@ -22,11 +18,11 @@
           
           
 #### Focado atualmente em
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"  alt="pytorch" width="40" height="40" style="max-width:100%"/>
+<img src="https://devscopewp.azurewebsites.net/wp-content/uploads/databricks.png"  alt="pytorch" width="120" height="80" style="max-width:100%"/>
           
 
 #### Outras Skills
-Maven, Programação orientada a objeto, análise de dados utilizando Python, conceitos de cloud, CI/CD, containers e etc.
+Maven, Programação orientada a objeto, Informatica PowerCenter, análise de dados utilizando Python, conceitos de cloud, CI/CD, containers, ambientes ágeis, PySpark, modelagem de dados e etc.
 
 ---
 
